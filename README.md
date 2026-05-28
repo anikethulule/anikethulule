@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Mahadu Hulule 👋
 
-## DevOps Engineer | Automation Engineer | Cloud & CI/CD Enthusiast
+## DevOps Engineer | Automation Engineer | Cloud & CI/CD 
 
 I am a DevOps Engineer with hands-on experience in building automation solutions, CI/CD pipelines, cloud infrastructure, containerized deployments, and infrastructure as code.
 
