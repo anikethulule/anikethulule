@@ -125,11 +125,13 @@ My work focuses on reducing manual operational effort, improving deployment reli
 
 ## 📊 GitHub Stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anikethulule&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anikethulule&show_icons=true&theme=default&hide_border=false" alt="Aniket's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikethulule&layout=compact&theme=default)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikethulule&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</p>
 
 ## 💡 DevOps Mindset
 
